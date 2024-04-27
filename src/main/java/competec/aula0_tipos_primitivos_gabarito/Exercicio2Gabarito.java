@@ -8,10 +8,10 @@ public class Exercicio2Gabarito {
     public static void main(String[] args) {
         // lembre-se que o nome da variável é importante para a leitura e entendimento do código
         // nomeie as variáveis de acordo com o problema e com o que elas armazenam
-        double precoLaranja = 5.5;
-        double precoUva = 2.3;
+        float precoLaranja = 5.5f;
+        float precoUva = 2.3f;
 
-        double soma = precoLaranja + precoUva;
+        float soma = precoLaranja + precoUva;
         System.out.println(soma);
     }
 }
