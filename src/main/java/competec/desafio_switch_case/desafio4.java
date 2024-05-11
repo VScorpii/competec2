@@ -25,5 +25,6 @@ public class desafio4 {
                 System.out.println("Código de produto inexistente!");
                 break;
         }
+        read.close();
     }
 }

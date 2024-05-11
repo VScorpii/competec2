@@ -8,8 +8,10 @@ package competec.aula0_tipos_primitivos;
 
 public class Exercicio2 {
     public static void main(String[] args) {
-        // Escreva seu código aqui ⬇️
+        float valorLaranja = 2.50f;
+        float valorUva = 3.40f;
 
+        float somaValores = valorLaranja + valorUva;
         
     }
 }
